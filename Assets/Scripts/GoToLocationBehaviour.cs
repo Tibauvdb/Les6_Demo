@@ -58,6 +58,8 @@ public class GoToLocationBehaviour : MonoBehaviour {
                 //_agent.SetDestination(hitinfo.point);
                 _agent.destination = hitinfo.point;
 
+                
+
             }
         }
 	}
